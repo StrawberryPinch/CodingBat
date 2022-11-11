@@ -1,4 +1,4 @@
-"""Psuedocode:
+"""Brainstorm:
     result = 21 - n
         if result < 0:
             return abs(result) * 2
